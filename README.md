@@ -3,7 +3,8 @@
 <h2 align="center"> ✨ Gif-To-Flipper ✨ </h2>
 
 ```zsh
-> A very simple Python script that can convert GIFs into animation folders suitable for Flipper Zero with just a drag-and-drop. ⭐
+> A very simple Python script that can convert GIFs into animation folders suitable
+  for Flipper Zero with just a drag-and-drop. ⭐
 ```
 
 
@@ -19,13 +20,13 @@
 <img align="left" src="gif.gif" width="550px"/>
 
 ```zsh
-> /Helmet  on/off - Turn on/off the helmet model  ⭐
+> very  ⭐
 
-> /iSpeed  on/off - Turn on/off SpeedCheating  ⭐
+> simple  ⭐
 
-> /iBattery  on/off - Turn on/off infiniteBattery  ⭐
+> to  ⭐
 
-> /iSprint  on/off - Turn on/off infiniteSprint  ⭐
+> use  ⭐
 ```
 
 ```zsh
