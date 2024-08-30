@@ -4,7 +4,7 @@
 
 ```zsh
 > A very simple Python script that can convert GIFs into animation folders suitable
-  for Flipper Zero with just a drag-and-drop. ⭐
+> for Flipper Zero with just a drag-and-drop. ⭐
 ```
 
 
@@ -30,9 +30,7 @@
 ```
 
 ```zsh
-> and.. A feature that transmits received damage to Xtoy
+< watch this 🫢
 ```
-
-🔗 Xtoy script: [XToys Lethal Company OSC to DG](https://xtoys.app/scripts/-NFYo-8Dy4iVKGB8DR3U)
 
 <h2 align="center"> 🧡 END 🧡 </h2>
