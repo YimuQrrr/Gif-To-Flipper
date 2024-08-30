@@ -1,21 +1,20 @@
 
 
-<h2 align="center"> ✨ Kitsune_LC ✨ </h2>
+<h2 align="center"> ✨ Gif-To-Flipper ✨ </h2>
 
 ```zsh
 > A MelonLoader mod that operates by entering commands into the game chat box for Lethal Company ⭐
 ```
 
-<img align="left" src="img/Sh_1.png" width="260px"/>
+<img align="left" src="gif.gif" width="260px"/>
 
 ```zsh
-       _ _                            __    ___
-  /\ /(_) |_ ___ _   _ _ __   ___    / /   / __\
- / //_/ | __/ __| | | | '_ \ / _ \  / /   / /
-/ __ \| | |_\__ \ |_| | | | |  __/ / /___/ /___
-\/  \/|_|\__|___/\__,_|_| |_|\___| \____/\____/
-
->>> Type /help in game chat box to start
+   ___ _  __      _____              ___ _ _                       
+  / _ (_)/ _|    /__   \___         / __\ (_)_ __  _ __   ___ _ __ 
+ / /_\/ | |_ _____ / /\/ _ \ _____ / _\ | | | '_ \| '_ \ / _ \ '__|
+/ /_\\| |  _|_____/ / | (_) |_____/ /   | | | |_) | |_) |  __/ |   
+\____/|_|_|       \/   \___/      \/    |_|_| .__/| .__/ \___|_|   
+                                            |_|   |_|              
 ```
 
 ```zsh
