@@ -3,10 +3,9 @@
 <h2 align="center"> ✨ Gif-To-Flipper ✨ </h2>
 
 ```zsh
-> A MelonLoader mod that operates by entering commands into the game chat box for Lethal Company ⭐
+> A very simple Python script that can convert GIFs into animation folders suitable for Flipper Zero with just a drag-and-drop. ⭐
 ```
 
-<img align="left" src="gif.gif" width="260px"/>
 
 ```zsh
    ___ _  __      _____              ___ _ _                       
@@ -16,6 +15,8 @@
 \____/|_|_|       \/   \___/      \/    |_|_| .__/| .__/ \___|_|   
                                             |_|   |_|              
 ```
+
+<img align="left" src="gif.gif" width="550px"/>
 
 ```zsh
 > /Helmet  on/off - Turn on/off the helmet model  ⭐
